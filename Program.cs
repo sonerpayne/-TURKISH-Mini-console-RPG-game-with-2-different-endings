@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Timers;
 
-namespace Pratik12
+namespace miniConsoleRPG
 {
     class Program
     {
